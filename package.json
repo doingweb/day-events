@@ -1,6 +1,6 @@
 {
   "name": "day-events",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Event emitter for daily events like sunrise, sunset, dawn, dusk, etc.",
   "main": "index.js",
   "directories": {
