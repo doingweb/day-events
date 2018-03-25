@@ -6,7 +6,7 @@ Event emitter for daily events like sunrise, sunset, dawn, dusk, etc.
 Usage
 -----
 
-`DayEvents` is an `EventEmitter` that will emit events as they happen during the day, in real time. The events [come from the SunCalc library](https://github.com/mourner/suncalc#sunlight-times) and documented constants are included with the plugin.
+`DayEvents` is an `EventEmitter` that will emit events as they happen during the day, in real time. The events [come from the SunCalc library](https://github.com/mourner/suncalc#sunlight-times) and documented constants are included.
 
 ```js
 const {
